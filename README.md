@@ -1,5 +1,6 @@
 # PCFColorField
 Control that allow you change the font color and/or background color from a field inside form on Model Driven App
+
 The main configuration is the Settings Properties. It allows you change the font color and/or background color from a field depending on the Setting chosen.
 
 - **Max Value**: Change the field color if its value is >= the target value.
