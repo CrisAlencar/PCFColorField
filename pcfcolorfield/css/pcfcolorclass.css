@@ -1,0 +1,32 @@
+  .pcfcolorfield input
+{
+  border-color: transparent;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  color: rgb(0,0,0);
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 1px;
+  line-height: 2.5rem;
+  font-weight:600;
+  font-size: 1.0rem;
+  height: 2.5rem;
+  margin-right: 0px;
+  margin-left: 0px;
+  text-overflow: ellipsis;
+  width: 100%
+}
+ 
+.pcfcolorfield input:hover
+{
+  border-color: black;
+}
+ 
+
+.pcfcolorfield div
+{
+  height: 100%;
+  border-color: transparent;
+}
