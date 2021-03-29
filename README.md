@@ -1,5 +1,5 @@
 # PCFColorField
-Control that allow you change the font color and/or background color from a Number field(whole, currency, decimal, float) inside form on Model Driven App
+Control that allow you change the font color and/or background color from a number field (whole, currency, decimal, float) inside form on Model Driven App
 
 * The color could either be the Name of the Color in English or the Color Hexa code. 
 * You can set the color when the value is true and another color when the condition is false
